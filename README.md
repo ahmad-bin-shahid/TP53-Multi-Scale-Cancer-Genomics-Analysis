@@ -155,15 +155,15 @@ These genes may represent critical downstream effectors of TP53-associated trans
 
 ### PCA Analysis
 
-![PCA](results/figures/PCA_plot.png)
+![PCA](results/Figure4_PCA_plot.png)
 
 ### Differential Expression
 
-![Volcano](results/figures/volcano_plot.png)
+![Volcano](results/Figure5_Volcano_plot.png)
 
 ### Network Analysis
 
-![Network](results/figures/network_hubs.png)
+![Network](results/HUB_Genes.png)
 ## Repository Structure
 
 ```text
