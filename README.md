@@ -189,19 +189,6 @@ These genes may represent critical downstream effectors of TP53-associated trans
 ```
 
 ---
-## Key Results
-
-### PCA Analysis
-
-![PCA](results/figures/PCA_plot.png)
-
-### Differential Expression
-
-![Volcano](results/figures/volcano_plot.png)
-
-### Network Analysis
-
-![Network](results/figures/network_hubs.png)
 ## Biological Significance
 
 TP53 is one of the most frequently mutated genes in human cancers. While individual mutations are well documented, understanding how these alterations propagate through molecular networks remains a major challenge.
